@@ -14,7 +14,7 @@ This repository contains a Python-based password generator with different strate
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/soheila7/Password-Generator.git
     cd password-generator
     ```
 
